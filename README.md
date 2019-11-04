@@ -26,13 +26,13 @@ Time spent: **X** hours spent in total
   - [ ] GIF Walkthrough: In this gif, we finally were allowed to upload files from the interenet. 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Required) Vulnerability Name or ID
+    - [Link 1](https://github.com/csckfaber1/Week-7-Faber/blob/master/working.gif)
+1. (Required) Cross Site Scripting
   - [ ] Summary: 
-    - Vulnerability types:
+    - Vulnerability types: Cross Site Scripting
     - Tested in version:
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: In this gif, I posted a new comment on my page and added a picture and some words with different background colors. 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
