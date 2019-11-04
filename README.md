@@ -14,16 +14,16 @@ Time spent: **X** hours spent in total
     - Vulnerability types: Cross Site Scripting
     - Tested in version:
     - Fixed in version: 
-  - [ ] GIF Walkthrough: In this gif, you see us not being allowed to post a comment. We tried multiple things and couldn't figure it out.  
+  - [ ] GIF Walkthhrough: In this gif, you see us not being allowed to post a comment. We tried multiple things and couldn't figure it out.  
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
-    - [Link 1](https://github.com/csckfaber1/Week-7-Faber/blob/master/haha.gif)
-1. (Required) Vulnerability Name or ID
+    - [Link 1](https://github.com/csckfaber1/Week-7-Faber/blob/master/notworking.gif)
+1. (Required) Cross Site Scripting
   - [ ] Summary: 
-    - Vulnerability types:
+    - Vulnerability types: Cross Site Scripting
     - Tested in version:
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: In this gif, we finally were allowed to upload files from the interenet. 
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
