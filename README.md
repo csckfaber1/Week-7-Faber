@@ -9,12 +9,12 @@ Time spent: **X** hours spent in total
 
 ## Pentesting Report
 
-1. (Required) Vulnerability Name or ID (xxs)
+1. (Required) Cross Site Scripting
   - [ ] Summary: 
-    - Vulnerability types: (xxs)
+    - Vulnerability types: Cross Site Scripting
     - Tested in version:
     - Fixed in version: 
-  - [ ] GIF Walkthrough: (summary of what the gif is)
+  - [ ] GIF Walkthrough: In this gif, you see us not being allowed to post a comment. We tried multiple things and couldn't figure it out.  
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://github.com/csckfaber1/Week-7-Faber/blob/master/haha.gif)
